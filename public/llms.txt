@@ -1,0 +1,58 @@
+# לינוי אלבז — Generative Engine Optimization Map
+
+> A עריכת דין business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-5ca01390.zappy5.app
+לינוי אלבז מציעה ייעוץ משפטי מקצועי לבעלי עסקים ואנשים במחלוקות משפטיות. פתרונות משפטיים יעילים ואמינים.
+
+### שירותים
+https://-5ca01390.zappy5.app/services
+גלו את מגוון השירותים המשפטיים של לינוי אלבז: ייעוץ משפטי לבעלי עסקים, פתרון מחלוקות משפטיות, תביעות נזיקין ועוד.
+
+### אודות
+https://-5ca01390.zappy5.app/about
+הכירו את לינוי אלבז, עורכת דין מנוסה המתמחה בייעוץ משפטי לבעלי עסקים ופתרון מחלוקות משפטיות. ניסיון, מקצועיות, ותוצאות.
+
+### צור קשר
+https://-5ca01390.zappy5.app/contact
+צרו קשר עם לינוי אלבז לקבלת ייעוץ משפטי מקצועי. זמינים לשיחה, פגישה, או ייעוץ מקוון. התחילו את התהליך המשפטי שלכם היום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5ca01390.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5ca01390.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5ca01390.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לינוי אלבז
+לינוי אלבז is a business in the עריכת דין industry.
+
+## Target Audience
+- בעלי עסקים מחפשים ייעוץ משפטי
+- אנשים במחלוקות משפטיות
+
+## Industry
+עריכת דין
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-5ca01390.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-5ca01390.zappy5.app/robots.txt
